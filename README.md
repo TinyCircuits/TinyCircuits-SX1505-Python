@@ -1,4 +1,4 @@
-# TinyCircuits SX1505 Python Lib
+# TinyCircuits SX1505 Python
 
 This repository holds a python package and examples meant for using the TinyCircuits [Joystick Wireling](https://tinycircuits.com/collections/wireling-input-output/products/joystick-wireling) and [Rotary Wireling](https://tinycircuits.com/collections/wireling-input-output/products/rotary-switch-wireling) with a Raspberry Pi and Wireling Pi Hat.
 
